@@ -27,5 +27,3 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-
-![End Banner]()
